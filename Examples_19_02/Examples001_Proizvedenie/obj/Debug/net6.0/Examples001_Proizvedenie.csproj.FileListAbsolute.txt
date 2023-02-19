@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/bin/Debug/net6.0/Examples001_Proizvedenie
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/bin/Debug/net6.0/Examples001_Proizvedenie.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/bin/Debug/net6.0/Examples001_Proizvedenie.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/bin/Debug/net6.0/Examples001_Proizvedenie.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/bin/Debug/net6.0/Examples001_Proizvedenie.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/refint/Examples001_Proizvedenie.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/Examples001_Proizvedenie.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_19_02/Examples001_Proizvedenie/obj/Debug/net6.0/ref/Examples001_Proizvedenie.dll
