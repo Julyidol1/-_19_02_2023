@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/bin/Debug/net6.0/Examp_Max3x_Max78
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/bin/Debug/net6.0/Examp_Max3x_Max78.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/bin/Debug/net6.0/Examp_Max3x_Max78.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/bin/Debug/net6.0/Examp_Max3x_Max78.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/bin/Debug/net6.0/Examp_Max3x_Max78.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/refint/Examp_Max3x_Max78.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/Examp_Max3x_Max78.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_Max78/obj/Debug/net6.0/ref/Examp_Max3x_Max78.dll
