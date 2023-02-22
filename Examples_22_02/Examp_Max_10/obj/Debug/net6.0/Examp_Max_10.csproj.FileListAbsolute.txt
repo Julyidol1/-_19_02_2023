@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/bin/Debug/net6.0/Examp_Max_10
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/bin/Debug/net6.0/Examp_Max_10.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/bin/Debug/net6.0/Examp_Max_10.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/bin/Debug/net6.0/Examp_Max_10.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/bin/Debug/net6.0/Examp_Max_10.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/refint/Examp_Max_10.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/Examp_Max_10.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_10/obj/Debug/net6.0/ref/Examp_Max_10.dll
