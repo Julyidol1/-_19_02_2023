@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/bin/Debug/net6.0/Examp_Div2_4
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/bin/Debug/net6.0/Examp_Div2_4.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/bin/Debug/net6.0/Examp_Div2_4.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/bin/Debug/net6.0/Examp_Div2_4.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/bin/Debug/net6.0/Examp_Div2_4.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/refint/Examp_Div2_4.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/Examp_Div2_4.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Div2_4/obj/Debug/net6.0/ref/Examp_Div2_4.dll
