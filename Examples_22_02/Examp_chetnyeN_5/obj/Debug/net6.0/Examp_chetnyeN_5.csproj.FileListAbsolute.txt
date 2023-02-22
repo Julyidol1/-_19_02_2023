@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/bin/Debug/net6.0/Examp_chetnyeN_5
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/bin/Debug/net6.0/Examp_chetnyeN_5.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/bin/Debug/net6.0/Examp_chetnyeN_5.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/bin/Debug/net6.0/Examp_chetnyeN_5.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/bin/Debug/net6.0/Examp_chetnyeN_5.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/refint/Examp_chetnyeN_5.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/Examp_chetnyeN_5.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_chetnyeN_5/obj/Debug/net6.0/ref/Examp_chetnyeN_5.dll
