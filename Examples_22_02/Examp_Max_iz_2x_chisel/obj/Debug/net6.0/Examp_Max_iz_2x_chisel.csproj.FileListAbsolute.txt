@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/bin/Debug/net6.0/Examp_Max_iz_2x_chisel
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/bin/Debug/net6.0/Examp_Max_iz_2x_chisel.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/bin/Debug/net6.0/Examp_Max_iz_2x_chisel.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/bin/Debug/net6.0/Examp_Max_iz_2x_chisel.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/bin/Debug/net6.0/Examp_Max_iz_2x_chisel.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/refint/Examp_Max_iz_2x_chisel.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/Examp_Max_iz_2x_chisel.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max_iz_2x_chisel/obj/Debug/net6.0/ref/Examp_Max_iz_2x_chisel.dll
