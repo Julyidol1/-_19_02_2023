@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Examp_Max3x_Max7/1.0.0": {
+        "runtime": {
+          "Examp_Max3x_Max7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examp_Max3x_Max7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
