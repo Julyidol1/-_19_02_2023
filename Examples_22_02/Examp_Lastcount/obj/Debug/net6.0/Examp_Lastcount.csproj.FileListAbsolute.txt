@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/bin/Debug/net6.0/Examp_Lastcount
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/bin/Debug/net6.0/Examp_Lastcount.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/bin/Debug/net6.0/Examp_Lastcount.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/bin/Debug/net6.0/Examp_Lastcount.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/bin/Debug/net6.0/Examp_Lastcount.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/refint/Examp_Lastcount.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/Examp_Lastcount.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Lastcount/obj/Debug/net6.0/ref/Examp_Lastcount.dll
