@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/bin/Debug/net6.0/Examp_Max3x_22
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/bin/Debug/net6.0/Examp_Max3x_22.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/bin/Debug/net6.0/Examp_Max3x_22.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/bin/Debug/net6.0/Examp_Max3x_22.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/bin/Debug/net6.0/Examp_Max3x_22.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/refint/Examp_Max3x_22.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/Examp_Max3x_22.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_22_02/Examp_Max3x_22/obj/Debug/net6.0/ref/Examp_Max3x_22.dll
